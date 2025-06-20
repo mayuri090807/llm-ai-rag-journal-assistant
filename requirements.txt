@@ -1,0 +1,7 @@
+langchain==0.3.25
+langchain-community==0.3.25
+huggingface_hub==0.33.0
+sentence-transformers==4.1.0
+faiss-cpu==1.11.0
+python-dotenv==1.1.0
+langchain-huggingface==0.3.0
