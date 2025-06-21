@@ -1,5 +1,5 @@
 
-**DailyAgent-AIAgent** is an AI-powered assistant designed to answer questions based on your daily journal entries. It uses Retrieval-Augmented Generation (RAG) to understand and respond to queries using the contents of `DailyLogs.txt`.
+This is an AI-powered assistant designed to answer questions based on your daily journal entries. It uses Retrieval-Augmented Generation (RAG) to understand and respond to queries using the contents of `DailyLogs.txt`.
 
 ## How It Works
 
