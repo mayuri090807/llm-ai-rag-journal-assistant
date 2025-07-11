@@ -1,5 +1,5 @@
 
-This is an AI-powered assistant designed to answer questions based on the daily journal entries. It uses Retrieval-Augmented Generation (RAG) to understand and respond to queries using the contents of `DailyLogs.txt`.
+This is a very basic AI-powered assistant designed to answer questions based on the daily journal entries. It uses Retrieval-Augmented Generation (RAG) to understand and respond to queries using the contents of `DailyLogs.txt`.
 
 ## How It Works
 Here's is the simplied breakdown of the workflow -
@@ -42,5 +42,7 @@ Example 2:
 # Next steps
 - Use enternal database to store embeddings
 - Import data from multiple files
-- Scaling
+- Deployment to cloud, Scaling
+- Logging and Error handling
+
 
